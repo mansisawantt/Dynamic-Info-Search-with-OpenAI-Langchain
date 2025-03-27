@@ -51,6 +51,11 @@ This project is a dynamic information search tool built using **Langchain**. It 
 ## Project Demo  
 ![Search Result](Celebrity.jpg)  
 
+contact me at:  
+📧 Email: *mansisawant438@gmail.com*  
+🔗 LinkedIn: [Mansi Sawant](https://www.linkedin.com/in/s-mansi/)
+
+
 
 
 
